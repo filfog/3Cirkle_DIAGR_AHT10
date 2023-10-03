@@ -18,7 +18,6 @@
   After drawing the lines, the function displays the value as text near the center of the diagram.
 
   Note: Make sure to have the appropriate display library included and configured.
-*/
 
 
 
