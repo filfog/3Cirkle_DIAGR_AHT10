@@ -1,4 +1,4 @@
-/*
+
   drawDiagram - Draws a circular diagram with customizable parameters.
 
   Parameters:
